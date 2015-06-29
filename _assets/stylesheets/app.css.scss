@@ -112,6 +112,7 @@ footer h4 {
 }
 
 .highlight pre code {
+  padding-left: 0px;
   border-style: none;
   white-space: pre;       // forces <code> to respect <pre> formatting
 }
