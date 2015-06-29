@@ -14,7 +14,7 @@ tags:
 
 ---
 
-This post gives an overview of the functionality provided by the Insteon Hub's Raw PLM interface. This is the second of a [series](/tag/UnderTheInsteonHubHood) of posts about the Insteon Hub. The first post, [Under the Insteon Hub Hood](/post/under-the-insteon-hub-hood), focused on the Hub's main HTTP interface.
+This post gives an overview of the functionality provided by the Insteon Hub's Raw PLM interface. This is the second of a [series](/tag/undertheinsteonhubhood/) of posts about the Insteon Hub. The first post, [Under the Insteon Hub Hood](/post/under-the-insteon-hub-hood), focused on the Hub's main HTTP interface.
 
 The Hub's PLM interface is exposed as both a resource via HTTP and directly over TCP.  This post details the raw TCP PLM interface.
 

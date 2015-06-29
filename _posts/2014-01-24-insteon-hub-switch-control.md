@@ -14,7 +14,7 @@ tags:
 
 ---
 
-Want to control your lights with the Insteon Hub API?  This post covers the details of basic light switch control with the Hub. This is part of our [series](/tag/UnderTheInsteonHubHood) detailing the functionality of the Insteon Hub.
+Want to control your lights with the Insteon Hub API?  This post covers the details of basic light switch control with the Hub. This is part of our [series](/tag/undertheinsteonhubhood/) detailing the functionality of the Insteon Hub.
 
 ![Image of light switch](/assets/posts/switch.png)
 

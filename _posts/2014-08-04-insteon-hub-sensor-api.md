@@ -16,7 +16,7 @@ tags:
 
 Control of Insteon sensors differs from other Insteon devices.  Unlike many Insteon devices that control your home, sensors don't directly control anything. They are used to trigger changes.  This means the API is not about how to control a device. Rather, the sensor API is about how to react to the device.
 
-This is part of our [series](/tag/UnderTheInsteonHubHood) detailing the functionality of the Insteon Hub.
+This is part of our [series](/tag/undertheinsteonhubhood/) detailing the functionality of the Insteon Hub.
 
 ![Sensors](/assets/posts/sensors.png)
 
