@@ -1,0 +1,6 @@
+language: ruby
+rvm:
+  - 2.1
+script: ./_script/cibuild
+install: bundle install
+after_success: bundle exec s3_website push --headless

@@ -1,0 +1,20 @@
+{
+  "author": "Brandon Goode <brandon.goode@gmail.com>",
+  "name": "ag-blog-app",
+  "description": "Blog app - blog.automategreen.com",
+  "version": "0.1.0",
+  "private": true,
+  "main": "./app.js",
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "devDependencies": {
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt": "*",
+    "grunt-bower-task": "*",
+    "grunt-contrib-less": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-imagemin": "*"
+  }
+}

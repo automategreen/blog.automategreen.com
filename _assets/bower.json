@@ -1,0 +1,8 @@
+{
+  "name": "blog.automategreen.com",
+  "version": "0.1.0",
+  "dependencies": {
+    "foundation": "zurb/bower-foundation#~5.4.7",
+    "jquery": "~2.1.1"
+  }
+}
