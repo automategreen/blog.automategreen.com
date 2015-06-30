@@ -26,3 +26,6 @@ tag_page_dir: tag
 assets:
   js_compressor:  uglifier
   css_compressor: sass
+
+gems:
+  - jekyll-sitemap
