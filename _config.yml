@@ -2,7 +2,7 @@
 title: Automate Green
 email: brandon@automategreen.com
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://blog.automategreen.com" # the base hostname & protocol for your site
+url: "https://blog.automategreen.com" # the base hostname & protocol for your site
 excerpt_separator: <!--more-->
 # Build settings
 markdown: redcarpet
