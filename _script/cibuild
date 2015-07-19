@@ -2,4 +2,4 @@
 set -e # halt script on error
 
 bundle exec jekyll build
-bundle exec htmlproof ./_site --href-ignore "/https*:\/\/blog.automategreen.com\/tag\/.+/"
+bundle exec htmlproof --href-swap ".*automategreen.com/:/" ./_site
