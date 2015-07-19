@@ -45,12 +45,13 @@ The request to the Automate Green API contains four elements: the URL, HTTP meth
 
 ## Authorization Token
 
-Now that you've got an overview, you'll need to generate an authorization token.  This allows for the ITFFF request to securely access your devices.  Currently the only way to get a token is through an HTTPS API request. In the request, you provide your email and password.
+Now that you've got an overview, you'll need to generate an authorization token.  This allows for the ITFFF request to securely access your devices.  Currently the only way to get a token is through an HTTPS API request. In the request, you provide your email, password and expires. Expires is the number of seconds you want the token to be valid. Expires defaults to two week.  I've set it to be a year here.
 
 ```sh
 curl https://api.automategreen.com/v1/signin \
 -d "user[email]=user@example.com" \
--d "user[password]=mypassword"
+-d "user[password]=mypassword" \
+-d "expires=31536000"
 ```
 
 The response is a JSON with a token.
