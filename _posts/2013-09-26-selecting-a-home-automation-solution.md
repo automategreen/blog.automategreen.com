@@ -26,7 +26,7 @@ X10 is one of the early home automation solutions. It is power line based.  It i
 
 [ZigBee](http://www.zigbee.org) had a lot of press and promise several years ago; however, it has never really taken off.  There are limited products and they are costly.  This rules out ZigBee.
 
-WiFi is a relatively new home automation solution.  The product list is very short. [Belkin](http://www.belkin.com/us/Products/home-automation/c/wemo-home-automation) makes a plug-in outlet and a unique looking switch. [Nest](http://nest.com) makes a hugely popular thermostat and has just announced it's adding an API. [Ube](http://myube.co), a new company, has some cool devices on the way, but they don't have them to market yet.  WiFi home automation has a lot of promise, but it doesn't have the products to be a real contender today; you never know about tomorrow.
+WiFi is a relatively new home automation solution.  The product list is very short. [Belkin](http://www.belkin.com/us/Products/home-automation/c/wemo-home-automation) makes a plug-in outlet and a unique looking switch. [Nest](http://nest.com) makes a hugely popular thermostat and has just announced it's adding an API. [Plum](http://plumlife.com), a new company, has some cool devices on the way, but they don't have them to market yet.  WiFi home automation has a lot of promise, but it doesn't have the products to be a real contender today; you never know about tomorrow.
 
 ## Connecting To The Cloud
 
