@@ -23,7 +23,7 @@ IFTTT is great and has a lot of great integrations with home automation, but no 
 
 Now that you have the ingredients, we can make an IFTTT recipe to control your Insteon devices.  For this example, we're going to create a recipe for when the sunsets dim our light.
 
-How does this work?  ITFFF Maker channel will send an HTTP request to the Automate Green API when the sunset action is triggered.  Automate Green will then use the Insteon Hub to control the Insteon device.
+How does this work?  IFTTT Maker channel will send an HTTP request to the Automate Green API when the sunset action is triggered.  Automate Green will then use the Insteon Hub to control the Insteon device.
 
 ## The Request
 
@@ -45,7 +45,7 @@ The request to the Automate Green API contains four elements: the URL, HTTP meth
 
 ## Authorization Token
 
-Now that you've got an overview, you'll need to generate an authorization token.  This allows for the ITFFF request to securely access your devices.  Currently the only way to get a token is through an HTTPS API request. In the request, you provide your email, password and expires. Expires is the number of seconds you want the token to be valid. Expires defaults to two week.  I've set it to be a year here.
+Now that you've got an overview, you'll need to generate an authorization token.  This allows for the IFTTT request to securely access your devices.  Currently the only way to get a token is through an HTTPS API request. In the request, you provide your email, password and expires. Expires is the number of seconds you want the token to be valid. Expires defaults to two week.  I've set it to be a year here.
 
 ```sh
 curl https://api.automategreen.com/v1/signin \
