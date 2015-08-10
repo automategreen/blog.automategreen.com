@@ -23,8 +23,6 @@ If you look at polling a large number of devices, the synchronous model quickly 
 
 This means the maximum number of devices you can poll with this synchronous model is 1200.
 
-> ![1200](http://bit.ly/1fNxFVA)
-
 This is not scalable.  To overcome this, you must have more threads or processes running in parallel.  This is feasible, but it requires much more complex code.
 
 ## Asynchronous
@@ -34,8 +32,6 @@ With an asynchronous model, the request is not blocked while waiting for a respo
 * It takes 20 ms for the system to process the response
 
 Now, the maximum number of devices the same system can poll is 30,000.
-
-> ![30,000](http://bit.ly/1avV7mq)
 
 As you can see, this increases the capacity substantially.
 
