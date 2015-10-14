@@ -8,8 +8,9 @@ tags:
   - HomeAutomation
   - INSTEON
   - Hub
-  - Spark
+  - Particle
   - OpenHub
+  - OpenSourceHardware
 
 ---
 
