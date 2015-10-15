@@ -3,6 +3,7 @@ layout: post
 title: Open Dimmer
 author: Brandon Goode
 permalink: post/open-dimmer
+image: posts/open-dimmer-pcb.png
 excerpt_separator: <!--more-->
 tags:
   - Particle
@@ -11,28 +12,6 @@ tags:
 ---
 
 Over the past couple years, I've been working with a lot of different home automation solutions.  There are plenty of great options out there; however, options for Hackers and Makers are limited.  I want to change this.  We need new open, customizable hardware.  We have started a project to develop a solution.  We're beginning with one of the most challenging components, the dimmer.  The initial project is called Open Dimmer. We currently have the first prototype PCBs being fabricated.
-
-**Want updates! Subscribe to our Open Dimmer Updates mailing list:**
-
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
-<form action="//automategreen.us11.list-manage.com/subscribe/post?u=86aecb89f996d4fc9e90b636b&amp;id=a61f3d3206" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-
-  <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <div style="position: absolute; left: -5000px;"><input type="text" name="b_86aecb89f996d4fc9e90b636b_a61f3d3206" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
 
 ![Open Dimmer PCB](/assets/posts/open-dimmer-pcb.png)
 
