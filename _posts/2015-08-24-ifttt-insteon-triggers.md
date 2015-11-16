@@ -27,9 +27,9 @@ When the Insteon Leak sensor detects a leak, it sends a message to the Insteon H
 ## What you need
 
 1. IFTTT account
-2. Insteon Hub
-  * 2242 - Older model - Fully Supported
-  * 2245 - Current model - Support coming soon
+2. Insteon Hub *Updated 11/6*
+  * 2242 - Older model
+  * 2245 - Current model
 3. Automate Green Account - [More info](https://www.automategreen.com)
 
 ## IFTTT Maker Channel
