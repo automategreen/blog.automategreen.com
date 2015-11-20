@@ -2,6 +2,7 @@ language: ruby
 rvm:
 - 2.1
 install: bundle install
+script: bundle exec rake test
 after_success: bundle exec s3_website push
 env:
   global:
