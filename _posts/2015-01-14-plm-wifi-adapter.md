@@ -2,7 +2,7 @@
 layout: post
 title: WiFi Adapter for an Insteon PLM
 author: Brandon Goode
-permalink: post/plm-wifi-adapter
+permalink: post/plm-wifi-adapter/
 excerpt_separator: <!--more-->
 tags:
   - HomeAutomation

@@ -2,7 +2,7 @@
 layout: post
 title: Insteon Hub - Sensor API
 author: Brandon Goode
-permalink: post/insteon-hub-sensor-api
+permalink: post/insteon-hub-sensor-api/
 excerpt_separator: <!--more-->
 tags:
   - HomeAutomation

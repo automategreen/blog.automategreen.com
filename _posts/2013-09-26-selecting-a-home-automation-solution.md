@@ -2,7 +2,7 @@
 layout: post
 title: Selecting a Home Automation Solution
 author: Brandon Goode
-permalink: post/selecting-a-home-automation-solution
+permalink: post/selecting-a-home-automation-solution/
 excerpt_separator: <!--more-->
 tags:
   - HomeAutomation

@@ -2,7 +2,7 @@
 layout: post
 title: IFTTT + Insteon
 author: Brandon Goode
-permalink: post/ifttt-plus-insteon
+permalink: post/ifttt-plus-insteon/
 excerpt_separator: <!--more-->
 tags:
   - IFTTT

@@ -2,7 +2,7 @@
 layout: post
 title: Scaling with Asynchronous Logic
 author: Brandon Goode
-permalink: post/scaling-with-asynchronous-logic
+permalink: post/scaling-with-asynchronous-logic/
 excerpt_separator: <!--more-->
 tags:
   - nodejs

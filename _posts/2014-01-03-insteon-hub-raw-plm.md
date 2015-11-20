@@ -2,7 +2,7 @@
 layout: post
 title: Insteon Hub Raw PLM
 author: Brandon Goode
-permalink: post/insteon-hub-raw-plm
+permalink: post/insteon-hub-raw-plm/
 excerpt_separator: <!--more-->
 tags:
   - HomeAutomation

@@ -2,7 +2,7 @@
 layout: post
 title: Insteon Hub - Basic Light Switch Control API
 author: Brandon Goode
-permalink: post/insteon-hub-switch-control
+permalink: post/insteon-hub-switch-control/
 excerpt_separator: <!--more-->
 tags:
   - HomeAutomation

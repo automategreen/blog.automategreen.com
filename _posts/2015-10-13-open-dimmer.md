@@ -2,7 +2,7 @@
 layout: post
 title: Open Dimmer
 author: Brandon Goode
-permalink: post/open-dimmer
+permalink: post/open-dimmer/
 image: posts/open-dimmer-pcb.png
 excerpt_separator: <!--more-->
 tags:

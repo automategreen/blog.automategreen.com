@@ -2,7 +2,7 @@
 layout: post
 title: IFTTT Insteon Triggers
 author: Brandon Goode
-permalink: post/ifttt-insteon-triggers
+permalink: post/ifttt-insteon-triggers/
 excerpt_separator: <!--more-->
 tags:
   - IFTTT

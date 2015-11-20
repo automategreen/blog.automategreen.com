@@ -2,7 +2,7 @@
 layout: post
 title: Under the Insteon Hub Hood
 author: Brandon Goode
-permalink: post/under-the-insteon-hub-hood
+permalink: post/under-the-insteon-hub-hood/
 excerpt_separator: <!--more-->
 tags:
   - HomeAutomation

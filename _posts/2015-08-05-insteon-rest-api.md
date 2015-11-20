@@ -2,7 +2,7 @@
 layout: post
 title: Insteon REST API - Quick Start
 author: Brandon Goode
-permalink: post/insteon-rest-api-quick-start
+permalink: post/insteon-rest-api-quick-start/
 excerpt_separator: <!--more-->
 tags:
   - INSTEON

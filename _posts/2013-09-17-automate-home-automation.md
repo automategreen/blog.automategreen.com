@@ -2,7 +2,7 @@
 layout: post
 title: Automate Home Automation
 author: Brandon Goode
-permalink: post/automate-home-automation
+permalink: post/automate-home-automation/
 excerpt_separator: <!--more-->
 tags:
   - HomeAutomation

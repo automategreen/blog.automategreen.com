@@ -2,7 +2,7 @@
 layout: post
 title: How To Setup an Insteon Hub (2242)
 author: Brandon Goode
-permalink: how-to/setup-an-insteon-hub
+permalink: how-to/setup-an-insteon-hub/
 excerpt_separator: <!--more-->
 tags:
   - INSTEON

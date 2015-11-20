@@ -2,7 +2,7 @@
 layout: post
 title: home-controller 0.3.0
 author: Brandon Goode
-permalink: post/home-controller-0.3.0
+permalink: post/home-controller-0.3.0/
 excerpt_separator: <!--more-->
 tags:
   - HomeAutomation

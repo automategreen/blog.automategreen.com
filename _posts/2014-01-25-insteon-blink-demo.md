@@ -2,7 +2,7 @@
 layout: post
 title: Insteon Blinking Node.js App
 author: Brandon Goode
-permalink: post/insteon-blink-demo
+permalink: post/insteon-blink-demo/
 excerpt_separator: <!--more-->
 tags:
   - HomeAutomation
