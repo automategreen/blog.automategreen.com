@@ -8,6 +8,7 @@ tags:
   - IFTTT
   - INSTEON
   - API
+  - HowTo
 ---
 
 This post provides instructions on how to use an Insteon device to trigger your IFTTT Maker recipe.

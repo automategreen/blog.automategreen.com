@@ -8,6 +8,7 @@ tags:
   - IFTTT
   - INSTEON
   - API
+  - HowTo
 ---
 IFTTT is great and has a lot of great integrations with home automation, but no Insteon support - until now! OK, there may not be official support, but with the new Maker channel, we can make it work.
 
