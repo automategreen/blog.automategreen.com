@@ -48,6 +48,8 @@ The request to the Automate Green API contains four elements: the URL, HTTP meth
 
 ## Authorization Token
 
+**Update** You can now create tokens via the Web App - [HowTo](/how-to/token-management/)
+
 Now that you've got an overview, you'll need to generate an authorization token.  This allows for the IFTTT request to securely access your devices.  Currently the only way to get a token is through an HTTPS API request. In the request, you provide your email, password and expires. Expires is the number of seconds you want the token to be valid. Expires defaults to two week.  I've set it to be a year here.
 
 ```sh
