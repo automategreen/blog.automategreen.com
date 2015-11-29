@@ -22,7 +22,7 @@ IFTTT is great and has a lot of great integrations with home automation, but no 
 2. Insteon Hub *Updated 11/6*
   * 2242 - Older model
   * 2245 - Current model
-3. Automate Green Account - [Sign up now](https://app.automategreen.com/signup)
+3. Automate Green Account - [Sign up now](https://www.automategreen.com)
 
 Now that you have the ingredients, we can make an IFTTT recipe to control your Insteon devices.  For this example, we're going to create a recipe for when the sunsets dim our light.
 
