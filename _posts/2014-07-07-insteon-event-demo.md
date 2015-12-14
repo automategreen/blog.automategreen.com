@@ -1,7 +1,9 @@
 ---
-
-title: Insteon Event Handling API Example 
-date: 7-7-2014
+layout: post
+title: Insteon Event Handling API Example
+author: Brandon Goode
+permalink: post/insteon-event-demo/
+excerpt_separator: <!--more-->
 tags:
   - HomeAutomation
   - INSTEON
@@ -17,6 +19,7 @@ This is an example of an application using lighting and motion events provided b
 We'll be looking at how to use the following asynchronous event logic to make complex home automation logic.
 
 **Lighting Turn On Event**
+
 ```js
 light('insteonId').on('turnOn', function () {
   ...
@@ -24,6 +27,7 @@ light('insteonId').on('turnOn', function () {
 ```
 
 **Motion Sensor Event**
+
 ```js
 motion('insteonId').on('motion', function () {
   ...
@@ -93,7 +97,7 @@ motion.on('motion', function () {
 });
 ```
 
-But this post isn't about how to use basic commands; its about insteon events.
+But this post isn't about how to use basic commands; its about Insteon events.
 
 ## Using Light Events
 
@@ -146,7 +150,6 @@ hub.connect(process.env.HUB_IP, function () {
 });
 ```
 
-I've pushed a complete working example to [GitHub](https://github.com/automategreen/blog-examples/tree/master/insteon-event-demo).
 
 <hr>
 
