@@ -19,6 +19,7 @@ exclude:
   - "package.json"
   - "tag-gen.sh"
   - "s3_website.yml"
+  - "Rakefile"
 
 permalink: pretty
 
