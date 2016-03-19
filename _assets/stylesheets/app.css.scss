@@ -47,6 +47,16 @@ body {
   background-color: #FFF;
 }
 
+
+
+@media #{$medium-up} {
+  .post-content img {
+    max-width: 500px;
+  }
+}
+
+
+
 footer {
   background-color: #222;
   color: #999;
