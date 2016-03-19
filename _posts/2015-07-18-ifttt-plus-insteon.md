@@ -17,6 +17,8 @@ IFTTT is great and has a lot of great integrations with home automation, but no 
 
 <!--more-->
 
+**UPDATE** We have made the integration process much simpler.  [See the new simplified how-to](how-to/simplified-ifttt-and-insteon/).
+
 ## What you need
 1. IFTTT account (hope this was obvious)
 2. Insteon Hub *Updated 11/6*
