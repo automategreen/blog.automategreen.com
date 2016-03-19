@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IFTTT + Insteon
+title: "IFTTT + Insteon"
 author: Brandon Goode
 permalink: post/ifttt-plus-insteon/
 excerpt_separator: <!--more-->
@@ -10,6 +10,7 @@ tags:
   - API
   - HowTo
 ---
+
 IFTTT is great and has a lot of great integrations with home automation, but no Insteon support - until now! OK, there may not be official support, but with the new Maker channel, we can make it work.
 
 ![If sunset then dim Insteon light](/assets/posts/ifttt-plus-insteon.png)
