@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "IFTTT + Insteon"
+title: IFTTT + Insteon
 author: Brandon Goode
 permalink: post/ifttt-plus-insteon/
 excerpt_separator: <!--more-->
@@ -18,7 +18,7 @@ IFTTT is great and has a lot of great integrations with home automation, but no 
 
 <!--more-->
 
-**UPDATE** We have made the integration process much simpler.  [See the new simplified how-to](how-to/simplified-ifttt-and-insteon/).
+**UPDATE** We have made the integration process much simpler.  [See the new simplified how-to](/how-to/simplified-ifttt-plus-insteon/).
 
 ## What you need
 1. IFTTT account (hope this was obvious)

@@ -11,7 +11,7 @@ tags:
   - HowTo
 ---
 
-Last year, I wrote a post, [IFTTT + Insteon](post/ifttt-plus-insteon/), on how you could use Automate Green to integrate the IFTTT service with your Insteon devices.  Since then, we have made a lot of improvements to the Automate Green Web App.  This How-To will show you how to use the Web App to generate all the IFTTT Maker Channel settings.
+Last year, I wrote a post, [IFTTT + Insteon](/post/ifttt-plus-insteon/), on how you could use Automate Green to integrate the IFTTT service with your Insteon devices.  Since then, we have made a lot of improvements to the Automate Green Web App.  This How-To will show you how to use the Web App to generate all the IFTTT Maker Channel settings.
 
 ![If sunset then dim Insteon light](/assets/posts/ifttt-plus-insteon.png)
 
