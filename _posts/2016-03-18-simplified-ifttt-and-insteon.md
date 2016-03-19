@@ -51,6 +51,7 @@ Configure the command you want and the token to use. [Optionally generate a new 
 ## Step 5
 
 Scroll down the page to see the IFTTT configurations.
+
 ![IFTTT Configurations](/assets/posts/ifttt-action-configs.png)
 
 ## Step 6
