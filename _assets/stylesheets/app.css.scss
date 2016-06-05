@@ -2,6 +2,8 @@
 
 @import 'normalize';
 @import 'foundation';
+@import 'font-awesome/font-awesome';
+
 
 @mixin box-shadow($shadow...) {
   -webkit-box-shadow: $shadow;
