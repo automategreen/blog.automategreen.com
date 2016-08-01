@@ -1,8 +1,15 @@
 @charset "utf-8";
 
+
+$slick-arrow-color: black;
+$slick-font-path: "/assets/fonts/";
+$slick-loader-path: "/assets/images/";
+
 @import 'normalize';
 @import 'foundation';
 @import 'font-awesome/font-awesome';
+@import 'slick';
+@import 'slick-theme';
 
 
 @mixin box-shadow($shadow...) {
@@ -52,11 +59,14 @@ body {
 
 
 @media #{$medium-up} {
-  .post-content img {
+  .post-content img:not(.full-size) {
     max-width: 500px;
   }
 }
 
+.image-slider {
+  margin: 0 30px;
+}
 
 
 footer {
@@ -200,4 +210,10 @@ hr {
 .highlight .vi { color: teal; }
 .highlight .il { color: #009999; }
 .highlight .gc { color: #999; background-color: #EAF2F5; }
+
+
+// .slick-slide .image{padding:10px;}
+// .slick-slide img{border:5px solid #FFF;display:block;width:100%;}
+// .slick-slide img.slick-loading{border:0 }
+// .slick-slider{margin:30px auto 50px;}
 
