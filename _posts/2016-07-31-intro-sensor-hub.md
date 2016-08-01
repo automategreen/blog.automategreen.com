@@ -5,9 +5,10 @@ author: Brandon Goode
 permalink: post/intro-sensor-hub/
 excerpt_separator: <!--more-->
 tags:
+  - SensorHub
   - HomeAutomation
   - AutomateGeen
-  - SensorHub
+  - Particle
 ---
 
 I am excited to introduce our Sensor Hub.  Over the past seven months, we have been working on the Sensor Hub to provide an easy way to integrate sensors into your Home Automation.  Today, if you want a sensor in your home, you have two options: a dedicated propriety sensor or a DIY sensor.  For the DIY option, there are tons of cheap wired sensors, but they require knowledge of circuitry and programming to use at home.  The Sensor Hub bridges the DIY gap and allows you to integrate wired sensors by just plugging them in.  A single hub can support six sensors and three relays at the same time.
