@@ -50,10 +50,10 @@ We are currently testing our 3rd prototype and building the 4th version.  We wil
 
 
 <div class="image-slider">
-  <div><img class="full-size" data-lazy="/assets/posts/sensor-hub-proto-3/mobile.png"/></div>
-  <div><img class="full-size" data-lazy="/assets/posts/sensor-hub-proto-3/maker.png"/></div>
-  <div><img class="full-size" data-lazy="/assets/posts/sensor-hub-proto-3/sensor-inputs.png"/></div>
-  <div><img class="full-size" data-lazy="/assets/posts/sensor-hub-proto-3/relay-inputs.png"/></div>
+  <div><img alt="Mobile Model" class="full-size" src="/assets/posts/sensor-hub-proto-3/mobile.png"/></div>
+  <div><img alt="Maker Model" class="full-size" src="/assets/posts/sensor-hub-proto-3/maker.png"/></div>
+  <div><img alt="Sensor Inputs" class="full-size" src="/assets/posts/sensor-hub-proto-3/sensor-inputs.png"/></div>
+  <div><img alt="Relay Controls" class="full-size" src="/assets/posts/sensor-hub-proto-3/relay-inputs.png"/></div>
 </div>
 
 
