@@ -4,6 +4,7 @@ title: Simplified IFTTT + Insteon
 author: Brandon Goode
 permalink: how-to/simplified-ifttt-plus-insteon/
 excerpt_separator: <!--more-->
+outdated: True
 tags:
   - IFTTT
   - INSTEON
@@ -22,7 +23,7 @@ Last year, I wrote a post, [IFTTT + Insteon](/post/ifttt-plus-insteon/), on how 
 2. Insteon Hub
   * 2242 - Older model
   * 2245 - Current model
-3. Automate Green Account - [Sign up now](https://www.automategreen.com)
+3. Automate Green Account - [Sign up now](https://app.automategreen.com/signup)
 
 ## Step 1
 

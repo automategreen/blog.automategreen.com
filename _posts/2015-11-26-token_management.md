@@ -4,6 +4,7 @@ title: Token Management
 author: Brandon Goode
 permalink: how-to/token-management/
 excerpt_separator: <!--more-->
+outdated: True
 tags:
   - IFTTT
   - API

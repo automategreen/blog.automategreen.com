@@ -15,6 +15,13 @@ layout: default
 
   </header>
   <hr>
+  {% if page.outdated %}
+    <div class="panel callout radius">
+      <h4><i class="fa fa-exclamation-triangle" aria-hidden="true"></i> Outdated</h4>
+      <p>This blog post is based on our legacy web app.  The functionality still works, but the screenshots and setup instructions are no longer valid. We will be updating this post soon.</p>
+      <p>You can access the legacy web app at <a href="https://legacy.automategreen.com">https://legacy.automategreen.com</a>
+    </div>
+  {% endif %}
 
   <article class="post-content">
     {{ content }}
