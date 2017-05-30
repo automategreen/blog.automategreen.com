@@ -4,7 +4,6 @@ title: Simplified IFTTT + Insteon
 author: Brandon Goode
 permalink: how-to/simplified-ifttt-plus-insteon/
 excerpt_separator: <!--more-->
-outdated: True
 tags:
   - IFTTT
   - INSTEON
@@ -25,41 +24,46 @@ Last year, I wrote a post, [IFTTT + Insteon](/post/ifttt-plus-insteon/), on how 
   * 2245 - Current model
 3. Automate Green Account - [Sign up now](https://app.automategreen.com/signup)
 
+## Automate Green Setup
+
+If you already have your Insteon Hub connected to Automate Green, awesome, you can skip to Step 1.
+
+Automate Green will act as the glue between Insteon and IFTTT.  You need to create an Automate Green account and then connect your Insteon Hub.
+
+Once you connect your hub, go to the "Devices" page and continue with Step 1.
+
 ## Step 1
 
-Select the actions button for the device.
+Select the edit button for the device.
 
-![Action Button](/assets/posts/select-actions.png)
+![Action Button](/assets/posts/select-edit.png)
 
 ## Step 2
 
-Click add action.
+Click the show API commands button in the upper right.
 
-![Add Action](/assets/posts/add-action.png)
+![Add Action](/assets/posts/show-api-commands.png)
 
 ## Step 3
 
-Click IFTTT is triggered.
+Configure the command you want and the token to use. [Optionally generate a new token](/how-to/token-management/).
 
-![IFTTT Triggered](/assets/posts/ifttt-action.png)
+![IFTTT Action Options](/assets/posts/config-api-command.png)
 
 ## Step 4
 
-Configure the command you want and the token to use. [Optionally generate a new token](/how-to/token-management/).
+Scroll down the page to see the API call configurations.  You will use this for your IFTTT configurations.
 
-![IFTTT Action Options](/assets/posts/ifttt-action.png)
+![IFTTT Configurations](/assets/posts/device-api-command.png)
 
 ## Step 5
 
-Scroll down the page to see the IFTTT configurations.
+Copy the IFTTT configurations to your "Maker Webhooks - Make a web request" action.
 
-![IFTTT Configurations](/assets/posts/ifttt-action-configs.png)
+![IFTTT Maker Channel Action](/assets/posts/ifttt-device-api-command.png)
 
-## Step 6
 
-Copy the IFTTT configurations to your Maker Channel action.
-
-![IFTTT Maker Channel Action](/assets/posts/ifttt-insteon-action.png)
+**UPDATE May 2017:**  This post has been updated to reflect changes in Automate Green.
 
 <hr>
 

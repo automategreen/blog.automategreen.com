@@ -4,7 +4,6 @@ title: IFTTT + Insteon
 author: Brandon Goode
 permalink: post/ifttt-plus-insteon/
 excerpt_separator: <!--more-->
-outdated: True
 tags:
   - IFTTT
   - INSTEON
@@ -154,6 +153,3 @@ Now that you have the token and device Id, you can create the recipe.  Set up yo
 <hr>
 
 *Want more details?  Did the post miss something or have an error?  Let me know; leave a comment or contact me [@brandongoode](https://twitter.com/brandongoode)*
-
-
-
