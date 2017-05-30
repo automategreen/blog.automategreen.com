@@ -9,7 +9,12 @@ layout: default
     <ul class="no-bullet">
       {% for post in site.posts %}
         <li>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <span class="post-meta">
+            {{ post.date | date: "%b %-d, %Y" }}
+            {% if post.updated %} • Updated {{ post.updated | date: "%b %-d, %Y" }}{% endif %}
+            {% if post.author %} • {{ post.author }}{% endif %}
+            {% if post.meta %} • {{ post.meta }}{% endif %}
+          </span>
 
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>

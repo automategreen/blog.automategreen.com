@@ -4,6 +4,7 @@ title: Simplified IFTTT + Insteon
 author: Brandon Goode
 permalink: how-to/simplified-ifttt-plus-insteon/
 excerpt_separator: <!--more-->
+updated: 2017-05-30
 tags:
   - IFTTT
   - INSTEON
