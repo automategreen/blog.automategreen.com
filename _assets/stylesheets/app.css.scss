@@ -125,6 +125,11 @@ footer h4 {
 hr {
   margin: 2.5rem 0 2rem;
 }
+
+.post-content h2 {
+  padding-top: 45px;
+  margin-top: -45px;
+}
 /* syntax.css */
 
 /* to make lines scroll instead of wrap */
@@ -216,4 +221,3 @@ hr {
 // .slick-slide img{border:5px solid #FFF;display:block;width:100%;}
 // .slick-slide img.slick-loading{border:0 }
 // .slick-slider{margin:30px auto 50px;}
-
